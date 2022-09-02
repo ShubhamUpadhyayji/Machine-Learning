@@ -1,0 +1,27 @@
+Machine Learning Training 
+Module 1. Introduction to machine learning 
+	Basic of ML and Its types (Supervised & Unsupervised ML)
+Module 2. Data
+	We will understand what is data and how it is represented
+Module 3. Python
+	In the 3rd module, we will understand python
+	It will be a tool to develop a complex machine learning tool
+	Start with the basics of python, then learn to write simple code,
+Writing function, implementing Complex Logic
+Module 4. Data Exploration and Preprocessing
+	Look at standard plots for visualization data from a different perspective 
+	We will be working on some element functions and see the library matplotlib
+	In the same module, we will learn complex and advanced preprocessing 
+	With the help of Libraries sklearn, scipy, statsmodels, Pandas, Matplotlib, Numpy,  XGBoost
+Module 5 to 7. Looking Baseline Model, Evaluation Metrics & Validation Techniques¬¬¬¬
+	Using the concept of first principal and natural intuition we will begin with the data modeling process with the simplest techniques and build upon those simplest to result into our first baseline predictive model
+	We also learn different ways of performing feature engineering and performing in python
+	We will also be looking at different models to evaluate our predictive model
+	We will discuss the pros and cons of each evaluation matrix
+Module 8. Decision Tree
+	We will learn about the tree-based model of machine learning
+	We will be understanding how the algorithm work & Implementing them in python
+Module 9. Ensemble models
+	Go to advance ML algorithm ensemble model and combine the predictive power of ML model
+Module 10. Clustering
+	Unsupervised learning techniques, quizzes 
