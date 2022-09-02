@@ -1,0 +1,93 @@
+Learning Objectives
+At the End of this topic you able to 
+
+1) Define Machine Learning 
+2) List few application of Machine learning used in your daily life
+
+Defination of machine learning: ** Machine Learning is the ability of machines that is computers to learn and improve from their past experience or data without being explicitly programmed.**
+
+Few application of machine learning in day to day life:
+1) Facebook News feed
+2) Facebook photo auto-tagging feature
+3) Product recommendation by shopping portal
+
+Advance application of Machine Learning
+1) Identifying frauds in Banking
+2) Sentiment analysis 
+3) Amazone GO
+4) Chatbots
+5) Self Driven Car
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+How Mchine learning works
+
+Learning Objective: 
+1) Explain data and its role in machine learning
+2) Explain what is machine learning model and how it interact with the data to make prediction and recommendation.
+
+What is data?
+Definition of data: Any information about any things term as a data.
+Ex: Specification of smart phones, Messages and comments on social media platform
+
+Data may be anything surrounds us text, number, audio, video anything
+
+""" Data is a heart of machine learning """
+
+In computer ---> Input -- program -- Output
+In Machine Learning ---> Data -- ML Model -- Intelligence
+
+Past Data --- ML Model --- Intelligence --- New Data --- Predictions / Recommend action
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Different Types of machine Learning
+Learning Objectives
+1) Define the tern labelled data Unlabelled data
+2) Explain supervised learning and unsupervised learning
+
+Commonly Used machine Learning Models 
+1) Supevised Machine Learning 
+2) Unsupervised Learning
+
+Definitation of Labelled Data: The data which contains a target variable or an output variable that answers a question of interest is called labelled data.
+
+Definition of Unlabelled data: Unlabelled data is one in which contains informations about something but does not have predefined target variable.
+
+Supervised learning: 
+-------------------
+-------------------
+
+1) From the term supervised learning we can infered the supervised learning model is the model which learned under supervision this supervision is provided by the labelled data which contains a target variable and few independent variable.
+2) In supervised learning model we are more interested in the target varible (values) 
+3) Example: Lets we have lablled data of customer from e-commerce website 
+
+Discrete variable --- categorical values in a varible
+Contnuous varible --- continuous values in a variable
+
+Supervised Learning further devided into two parts
+1) Classification Model (Target varible -- category varible)
+2) Regression Model (Regression model -- Continuous varible)
+
+Unsupervised Learning:
+---------------------
+---------------------
+
+1) Complement of supervised learning
+2) There is no target variable involved 
+3) Works only on unlabelled data
+4) Identifies if some pattern involved in the data 
+
+Example: Population data 
+We have input varible such as Data survey, district, etc
+
+Unsupervised learning:
+The machine learning that is deployed to find patterns in unlabelled data is reffered to as unsuopervised lesrning 
+
+
+
+
+
+
+
+
