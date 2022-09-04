@@ -1,0 +1,43 @@
+Learning Objective
+
+At the end of this topic you will able to :
+1) What data is and where it is avilable 
+2) Explain what a varible is.
+3) Explain the types of variable.
+
+What is data? 
+Data is information about something
+this information is number, images, audio, video, images etc.
+
+what is a varible ?
+
+A variable represent a specific characteristics of the data or tells one specific information about the data under consideration
+A variable can take any value like number and character
+
+It is called as varible because it values change across different data point
+for call duration for different call will be different
+
+Types of varibles 
+-- Numeric or quatitative variable (Which can be measure)
+-- Categorical or qualitative variable ( Which can not be measured)
+
+Numeric varible are those which is quatifiable.
+They can be measured or counted or expressed in the numeric format
+
+Chategorical varible are those which are like adjective and express as a feeling or characteristics.
+
+
+Numeric variable can be subdivided into two category
+1) Continous    2) discrete
+
+1) Continuous variable : continuous varible are those numeric variable which can take any value bwteen certain set of real numbers.
+2) Discrete variable : discrete variable are those which are countable and can take any whole numbers as values
+
+Categorical variable can not be numeric in nature consist of text or string .
+
+Categorical variable can be sub-divided into ordinal and nominal variable
+1) Ordinal varible are those categorical varible which can be arranged in a logical order 
+2) Nominal variable are those categorical variables which can not ranked based on their values.
+
+
+
