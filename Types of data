@@ -33,6 +33,39 @@ Numeric variable can be subdivided into two category
 1) Continuous variable : continuous varible are those numeric variable which can take any value bwteen certain set of real numbers.
 2) Discrete variable : discrete variable are those which are countable and can take any whole numbers as values
 
+----------------------------------------------------------------------------------------------------------------------------------
+Learning objective:
+At the end of this topic you will able to:
+1) Explain what dependent and independent variable
+2) Differentiate between dependent and independent varible 
+3) Explain what structured and unstructured data is 
+4) Differentiate between structured and unstructured data
+
+Independent varible
+: Independent varibles are those whose values does not depend on any other varibles.
+
+Dependent variable
+: Dependent variable are the ones whose value depend on other independent variables and can not change easly.
+
+Structured data :
+What is structured data?
+Structured varible always have a format or structured when they are stored.
+
+Unstructured data:
+Data which does not have a well define structure and is not arrange in any tabular form.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Categorical variable can not be numeric in nature consist of text or string .
 
 Categorical variable can be sub-divided into ordinal and nominal variable
