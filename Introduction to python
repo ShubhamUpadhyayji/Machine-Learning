@@ -1,0 +1,72 @@
+Learning Objectives:
+By end of this tutorial you are able to :
+1) List advantage of using python as a machine learning tool.
+
+Some of commonly used Machine learning tools are :
+1) Python 2) R 3) SAS 4) KNIME 5) MATLAB
+
+Python uses:
+1) GUI Appliaction(Graphical user interphase)
+2) Web application
+3) In ML such as face recognition
+4) Object Detection
+5) Sntiment analysis 
+6) product recomendation Engines 
+
+
+Advantages of python:
+1) Object-oriented programming laguage 
+  a) allow to create and used objects and class easly.
+  b) Example : A variable with whole number is an object of the int class 
+2) Compatible with different platforms like windows , mac , linux , Raspbarry pi etc.
+3) Simple syntax 
+4) Interpreter based laguage 
+5) Robust standard libraries 
+  a) allow to add funstionality to the program without writing additional code.
+6) Integration with 3rd party module 
+  a) Cost effective and time saving 
+  b) Example: PySpark (Integration with spark)
+7) Open source and huge community support.
+-----------------------------------------------------------------------------------------------------------------------------------
+Jupyter Notebook IDE 
+
+Learning Objective : 
+1) List the advantage of using jupyter notebook as IDE (Integrated developement environment)
+2) Download jupyter notebook for window & Set up jupyter environment 
+
+Python is not enough we need ide for save code and files 
+
+Defination of IDE: An IDE is integrated developement environment) is a software suit that consolidate the basic tools that developers 
+need to write and test the software .
+
+Some important IDE used for python is 
+1) Jupyter notebook
+2) Anaconda spyder 
+3) PyCharm
+4) Windows IDE 
+
+
+--------Advantages of jupyter notebook---------------
+1) Versatile and sharelable 
+2) Visualisation ability in the same window 
+3) Open source web application 
+4) A collection of codes , documents and visualisation at one place 
+5) One stop shop for data cleaning , data visualisation , building , training machine learning model etc.
+6) ability to execute a specific part of the code without having execute the entire code .
+
+
+------The minimum configuaration required for it-------
+Processing speed (Core i5 with 2.59 GHz or Higher ) 
+Ram memory 8GB
+Disk space of minimum 2-3 GB
+Operating system window 8 or higher
+
+Two way of installing 
+1) Using anaconda 
+2) Download python upgrading pip3 and then installing jupyter notebook.
+
+
+
+
+
+
