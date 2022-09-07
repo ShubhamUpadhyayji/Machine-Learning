@@ -44,3 +44,51 @@ Available data
                           2) was it the toss or pitch condition or player did not work well
 3) Predictive Analysis -- will we win the next match 
 4) Prespective Analysis -- Which thing should we avoided of focused on to win the next match
+
+--------------------------------------------------------------------------------
+
+Part 2:
+
+Learning Objective:
+At the end of this topic you are able to 
+1) Advantages of representing data graphically
+2) List and explain the major types of graphs used for data analysis 
+
+
+Graphical representation of data :
+1) Is the one of the simplest way of drawing insights from the data 
+2) Help us to study the relationship between the variable 
+3) help to understand the trend and pattern across the variable
+
+
+## Major types of graphs commonly used for data analysis 
+1) Line graph 2) Bar graph 3) Histrogram/frequency polygon 4) pie chart 5) Scatter plot 6) Box and Whisker plot 7) Time series 
+
+If data is not normally distributed we use mathematical treatment to make the data model ready so that it follows a normal distribution.
+
+---***Scatter plot is very useful in informing us the relationship between two variables.
+
+---*** Box plot is also known as box or whisker plot, is a graphical representation of the statistical summary of numeric variables.
+( Minimum values ,1st Quartile 25%,2nd Quartile 50%,3rd Quartile 75% values,maximum values , out of maximum or minimum is outliers
+** Interquartile range lies between 1st to 3rd quartile**** )
+-------Quartile devides the data into three equal parts---------
+
+Time series:
+Time v/s some varying quatity
+
+1) Types of graph used impacts your understanding of the data .
+2) Be careful hoe you are representing the data and type of graph used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
