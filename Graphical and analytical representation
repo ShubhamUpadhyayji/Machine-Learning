@@ -1,0 +1,46 @@
+Learning Objective:
+1) What data analysis is ?
+2) Explain the relation between data analysis and ML.
+3) Explain the types of data analysis
+
+Input ---  Machine learning --- predicting future event
+ 
+Data analysis :
+Is the process of studying the available data and drawing valueable insights or information from it with the help of any software 
+
+Some commonly used analytical tools
+1) Python 2) R 3) SAS 4) SPSS 5) MATPLOTLAB
+
+What ML what to do with data analysis
+-- Machine learning using different algorithm to predict the future event
+-- Data analysis is about analysing data and bringing out valuable insights from it using analystical tool.
+-- Data analysis is a part of machine learning which nanlyses your data and bring out insights before applying any algorithms on it.
+
+
+Exploratory data analysis:
+1) To find the patterns and relationships among the data variables.
+2) It helps in finding out pattern and trends in the data.
+3) EDA give the summary of the data set.
+
+------
+Which variable will we deal with ?
+ 
+ EDA let us know about the dataset and hence the modeling becomes easy.
+ 
+ Summarise: 
+ Machine Learning --- Algorithm(Models) --- Data analysis --- EDA Graphs Statistics
+ 
+ There are 4 Types of Data Analytics 
+ 1) Descriptive analysis (What happened)
+ 2) Diagnostik analysis (Why did it happen)
+ 3) Predictive analysis (What will happen)
+ 4) Prespective analysis (What should we do)
+
+
+Example : Cricket matches 
+Available data 
+1) Descriptive Analysis -- Which player perform well and help in winning the match
+2) Diagnostic Analysis -- 1) What was the main reason for the outcome of the match ?
+                          2) was it the toss or pitch condition or player did not work well
+3) Predictive Analysis -- will we win the next match 
+4) Prespective Analysis -- Which thing should we avoided of focused on to win the next match
